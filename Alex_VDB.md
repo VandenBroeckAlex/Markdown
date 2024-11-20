@@ -32,7 +32,7 @@ I d'like to be able to work in the dev industry
 
 The impending doom of my computer when he makes the sound of a jet engine
 
-that and the end of the duck species.
+that and the end of the ducks species.
 
 ### The things I look forward to.
 
