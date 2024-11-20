@@ -42,7 +42,7 @@ I can't wait to see the first duck with teeth (spooky !)
 1. Having fun while working
 1. Discovering new people
 
-![lil'guy](https://s3.us-east-1.amazonaws.com/assets.mapleleaffarms.com/content/Pages/4-Farm-raised-Duck/Duck-Breeds/_716x416_crop_center_85_none/white-pekin-duck-breed.jpg)
+![lil'guy](https://s3.us-east-1.amazonaws.com/assets.mapleleaffarms.com/content/Pages/4-Farm-raised-Duck/Duck-Breeds/_716x416_crop_center_85_none/white-pekin-duck-breed.jpg "coin! coin!")
 
 ![y'a Boy](https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif
 "toujours plus loin !")
