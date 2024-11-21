@@ -1,3 +1,4 @@
+
 # Van den Broeck Alex
 ## Junior webDev.
 
@@ -5,14 +6,14 @@
 
 
 
-Hi, I'm Alex and I like ducks... DUCKS ! 
+Hi, I'm Alex and I like ducks... **DUCKS** ! 
 link
 [visitwebsite](https://www.youtube.com/watch?v=dQw4w9WgXcQ "CLICK !")
 
 ### My very surprising skill 
 1. I can clap hands with one hand (Impressive !)
 2. I have the ability to fail the most basic recipe
-1. I can differentiate a dog from a duck
+1. I can differentiate a dog from a **duck**
 
 
 
@@ -20,12 +21,12 @@ link
 
 1. Eat food that I haven't cooked
 1. Understanding stuff
-1. Did I mentionned the fact that I like ducks ?
+1. Did I mentionned the fact that I like **ducks** ?
 
 
 ### The objectives I want to achieve as a developer during Becode ? 
 
-I d'like to be able to work in the dev industry and have the capacity to "update" my knowledge by myself
+I d'like to be able to work in the dev industry
 
 ### The fear I might have.
 
@@ -35,7 +36,7 @@ that and the end of the duck species.
 
 ### The things I look forward to.
 
-I can't wait to see the first duck with teeth (spooky !)
+I can't wait to see the first duck with teeth (*spooky !*)
 
 ### The three things I value the most in working as a team.
 1. The multiple points of views
